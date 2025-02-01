@@ -1,89 +1,102 @@
-# Somali Job Market analysis
+## **The Somali Job Market: Key Insights and Trends from Qaranjobs.com**
 
-The job market is evolving rapidly, and **understanding where opportunities lie, what skills matter, and how hiring trends fluctuate** can make the difference between a successful job search and frustration. This analysis uncovers critical insights using effective visuals to help **job seekers make informed career choices and employers refine their hiring strategies.**  
+### Introduction
 
-## **Market Overview: Where Are the Jobs?** 
+The Somali job market is undergoing significant transformation, shaped by economic trends, international development efforts, and evolving skill demands. To better understand employment patterns, we scraped and analyzed job postings from **Qaranjobs.com**. This report presents a structured analysis of employer needs, required skills, education preferences, and hiring cycles, providing job seekers, employers, and policymakers with actionable recommendations.
+
+Our analysis reveals key trends across various dimensions, including experience requirements, job demand, location-based hiring, soft and technical skill needs, and education levels. Below, we break down these insights and provide data-driven recommendations.
+
+---
+
+### Key Insights
+
+#### 1. Experience Requirements Vary Significantly by Sector
+
+![experience](images/avg_experience.png) 
+
+- **Security & Defense roles demand the highest experience levels**, averaging **25 years**, far exceeding all other fields. These roles likely require highly specialized expertise and come with significant risk factors.
+- **Project Management (16.2 years) and Administration & Management (15.2 years) follow closely**, reflecting the seniority and leadership responsibilities associated with these positions.
+- **Technology (7.4 years), Education (7.2 years), and Finance (6.9 years) require moderate experience levels**, suggesting a mix of technical expertise and professional experience.
+- **Marketing requires the least experience (5.0 years)**, likely due to the field’s adaptability and the rapid evolution of digital marketing skills.
+
+#### 2. Information Technology, Finance, and Healthcare Are the Most In-Demand Fields
 
 ![in_demand_jobs](images/demand_jobs.png)
 
-The data reveals that **Information Technology (26.3%) and Finance (22.7%)** dominate the job market. These industries are experiencing rapid digital transformation and financial sector expansion, making them prime fields for job seekers. **Healthcare (17.4%) and Education (15.8%)** also feature strongly, reflecting ongoing global priorities in medical services and knowledge development.  
+- **Information Technology leads job demand (26.3%)**, highlighting the increasing reliance on digital expertise and technological advancements.
+- **Finance (22.7%) and Healthcare (17.4%) follow closely**, reflecting demand for financial analysts, accountants, medical professionals, and health administrators.
+- **Education (15.8%) remains a strong hiring sector**, driven by the need for teachers, trainers, and academic professionals.
+- **Engineering (3.3%), Marketing (2.3%), and Legal & Policy (2.3%) have relatively lower job postings**, suggesting more competitive job markets in these fields.
 
-**💡 Takeaway:** If you’re considering a career shift or education path, these industries provide **the highest employment potential**.  
-
-
-## **Location-Based Opportunities: Where Should You Search for Jobs?**  
+#### 3. Mogadishu Dominates Job Availability
 
 ![jobs_by_city](images/jobs_cities.png)
 
-A staggering **35.4% of job postings are concentrated in Mogadishu**, making it the job hub of the region. Other cities like **Hargeisa (9.4%) and Baidoa (5.4%)** follow, offering additional opportunities.  
 
-However, a key insight emerges: **Smaller cities have job opportunities but at a much lower scale.** This means job seekers may face **higher competition in urban centers but also find emerging opportunities in smaller cities.**  
+- **Mogadishu accounts for 35.4% of job postings**, making it the dominant employment hub, likely due to economic activity, government institutions, and business concentration.
+- **Hargeisa (9.4%) and Baidoa (5.4%) serve as secondary job centers**, while cities such as Garowe (3.0%), Kismayo (2.9%), and Jigjiga (1.9%) have moderate employment levels.
+- **Smaller cities like Beledweyne (1.3%), Berbera (1.0%), and Jowhar (0.9%) offer fewer job opportunities**, likely tied to specific industries or regional economic activity.
 
-**💡 Takeaway:** If you’re open to relocation, **targeting urban centers like Mogadishu or secondary hubs like Hargeisa** may boost your job search success.  
+#### 4. Organizational and Communication Skills Are the Most Valued Soft Skills
 
+![soft_skills](images/soft_skills.png)
 
-## **What Skills Are Employers Looking For?**
+- **Organization (64.9%) and Communication (63.3%) are the top soft skills employers seek**, emphasizing efficiency and clear messaging across industries.
+- **Collaboration (31.3%) and Leadership (26.5%) highlight the importance of teamwork and decision-making abilities.**
+- **Initiative (24.6%), Interpersonal Communication (16.9%), and Resilience (14.8%) further differentiate strong candidates.**
+- **Teamwork (14.0%) and Professionalism (11.7%) remain relevant but less frequently highlighted in job postings.**
+
+#### 5. Microsoft Excel and GIS Are the Most Required Technical Skills
 
 ![tech_skills](images/tech_skills.png) 
 
-**Technical Skills:**  
-- **Microsoft Excel (52.5%)** and **GIS (42%)** top the list, indicating that **data handling, analysis, and geospatial tools are in high demand.**  
-- **Documentation (23.3%) and Capacity Building (23.1%)** highlight the need for strong administrative and strategic planning skills.  
+- **Microsoft Excel (52.5%) remains the most sought-after skill**, underscoring its significance in data analysis, finance, and administrative tasks.
+- **GIS (42.0%) ranks second**, signaling strong demand in urban planning, environmental analysis, and disaster management.
+- **Teams (27.9%), Documentation (23.3%), and Capacity Building (23.1%) highlight the importance of digital collaboration and structured reporting.**
+- **Monitoring & Evaluation (15.7%) and Emergency Response (13.5%) suggest a focus on performance tracking and crisis management.**
 
-![soft_skills](images/soft_skills.png) 
+#### 6. Finance and Education Are the Most Required Fields of Study
 
-**Soft Skills:**  
-- **Organization (64.9%) and Communication (63.3%)** are the two most valued soft skills.  
-- **Collaboration (31.3%) and Leadership (26.5%)** further emphasize that employers seek **team players who can take the initiative.**  
+![field](images/study_fields.png) 
 
-**💡 Takeaway:** To stand out in the job market, **job seekers should prioritize upskilling in Excel, GIS, and documentation**, while also refining **communication and leadership skills.**  
+- **Finance (17.6%) and General Studies (17.1%) lead job requirements, followed closely by Education (16.1%).**
+- **Business Administration (12.2%) and Engineering (8.3%) show consistent demand across industries.**
+- **Law (7.8%), Economics (4.9%), and Public Health (4.7%) highlight niche but significant employment sectors.**
 
+#### 7. Hiring Peaks in February
 
-## **Experience vs. Opportunity: What Level of Experience Do Employers Require?**  
+![cycles](images/monthly_jobs.png) 
 
- ![experience](images/avg_experience.png) 
+- **February sees the highest job postings (12.2%)**, likely driven by new budget cycles and workforce planning.
+- **Hiring remains strong in June (9.6%), July (9.4%), and September (9.3%)**, suggesting mid-year employment demand.
+- **April (4.9%) records the lowest hiring activity**, indicating seasonal employment slowdowns.
 
-🔹 A major **outlier** stands out: **Security & Defense roles demand 25 years of experience**, making it a specialized field.  
-🔹 **Engineering, Finance, and Project Management all require a median of 5 years of experience**, indicating that **these fields prefer mid-career professionals.**  
-🔹 On the other hand, **HR & Recruitment (2 years) and Administration (3 years)** offer more accessibility to **early-career professionals.**  
+---
 
-**💡 Takeaway:**  
-- If you’re a **fresh graduate**, focus on **Administration, HR, and entry-level IT roles.**  
-- If you have **5+ years of experience**, fields like **Engineering and Finance** are prime opportunities.  
-- **Security & Defense** remains a **specialized sector** with high entry barriers.  
+### Recommendations
 
+- **Job seekers should develop strong bilingual communication skills in Somali and English**, as nearly all job postings require them.
+- **Employers should implement language training programs** to enhance workforce multilingual capabilities.
+- **Government agencies and policymakers should expand vocational training and certification programs** to meet workforce needs.
+- **Tech professionals should focus on Excel, GIS, and data analysis skills**, as these remain the most in-demand technical competencies.
+- **Candidates should time their job applications to peak hiring months** (February, June, July, and September) for the best opportunities.
+- **The private sector should be strengthened to balance NGO and government job reliance**, creating more stable employment.
 
-## **Hiring Trends & Cycles: When to Apply for Jobs?**  
+---
 
-  ![cycles](images/monthly_jobs.png) 
+### Conclusion: Adapting to a Dynamic Job Market
 
-**February (12.2%) is the peak hiring month**, while **April (4.9%) sees the lowest job postings.**  
-- **Summer months (June & July)** show steady hiring trends (~9.6%)  
-- **September (9.3%) and May (9.4%)** also show strong activity.  
+The Somali job market is evolving rapidly, with technology, finance, and healthcare sectors leading job demand. Experience levels vary significantly by industry, with leadership roles requiring over a decade of expertise, while fields like marketing offer faster entry points. Somali and English proficiency are non-negotiable for most roles, reinforcing the need for bilingual communication skills. 
 
-**💡 Takeaway:**  
-- **Job seekers should intensify their applications in Q1 (Jan–Mar) and early Q2 (May–June).**  
-- **Hiring managers should align their recruitment drives with peak job-seeking months for maximum applicant reach.**  
+To remain competitive, job seekers should focus on **developing technical skills, gaining experience in high-demand industries, and strategically timing job applications.** Employers must prioritize **upskilling initiatives and talent development**, while policymakers should **enhance vocational training and expand employment opportunities beyond NGO-driven roles.**
 
+---
 
-## **Actionable Recommendations**  
+### **Resources & Methodology**
 
-  ![cycles](images/study_fields.png) 
+- **[Scraping Notebook](scraping-notebook-link)** – Details on data extraction from Qaranjobs.com.
+- **[Cleaning Notebook](cleaning-notebook-link)** – Steps for structuring and preparing data for analysis.
+- **[Analysis Notebook](analysis-notebook-link)** – Code and insights derived from the processed job data.
 
-### **For Job Seekers**  
-✔ **Prioritize high-demand industries** (IT, Finance, Healthcare, Education)  
-✔ **Focus on key skills** (Microsoft Excel, GIS, Communication, Leadership)  
-✔ **Target job-rich cities** (Mogadishu, Hargeisa) for better prospects  
-✔ **Apply during peak hiring months** (Feb, May, June) for the best chances  
-✔ **Entry-level professionals:** Look for jobs in **Administration, HR & IT**  
+This report provides a **data-driven perspective on Somalia’s evolving job market**, equipping job seekers, employers, and policymakers with actionable insights to enhance workforce development.
 
-### **For Hiring Managers**  
-✔ **Highlight top skills** (Excel, Communication, Collaboration) in job descriptions  
-✔ **Plan hiring cycles strategically** – peak hiring months bring more applicants  
-✔ **Consider experience flexibility** – too many senior-level postings can limit applicant pools  
-✔ **Expand hiring beyond urban centers** to access untapped talent pools  
-
-
-## **Conclusion: Make Data-Driven Career Moves!**  
-
-This data-driven storytelling **empowers both job seekers and employers** to optimize their strategies. By aligning **skills, location preferences, and application timing**, candidates can **maximize job search success**, while employers can **attract the right talent efficiently.**  
