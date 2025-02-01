@@ -39,7 +39,7 @@ However, a key insight emerges: **Smaller cities have job opportunities but at a
 ---
 
 ## **Experience vs. Opportunity: What Level of Experience Do Employers Require?**
-![alt text](http://url/to/img.png)
+![avg experience](Images/Avg Experience.png)
 
 🔹 A major **outlier** stands out: **Security & Defense roles demand 25 years of experience**, making it a specialized field.  
 🔹 **Engineering, Finance, and Project Management all require a median of 5 years of experience**, indicating that **these fields prefer mid-career professionals.**  
