@@ -5,7 +5,7 @@ The job market is evolving rapidly, and **understanding where opportunities lie,
 ---
 
 ## **Market Overview: Where Are the Jobs?**  
-
+![alt text](http://url/to/img.png)
 The data reveals that Information Technology (26.3%) and Finance (22.7%) dominate the job market. These industries are experiencing rapid digital transformation and financial sector expansion, making them prime fields for job seekers. Healthcare (17.4%) and Education (15.8%) also feature strongly, reflecting ongoing global priorities in medical services and knowledge development.  
 
 💡 Takeaway: These industries offer the highest employment potential if you’re considering a career shift or education path.  
@@ -13,8 +13,7 @@ The data reveals that Information Technology (26.3%) and Finance (22.7%) dominat
 ---
 
 ## **Location-Based Opportunities: Where Should You Search for Jobs?**  
-🔹 **Visual:** Top 10 Cities by Job Availability (Bar Chart)  
-🔹 **Insight:** Assists job-seekers in identifying **regions with the most opportunities**  
+![alt text](http://url/to/img.png)
 
 A staggering 35.4% of job postings are concentrated in Mogadishu, making it the region's job hub. Other cities, like Hargeisa (9.4%) and Baidoa (5.4%), follow, offering additional opportunities.  
 
@@ -25,13 +24,12 @@ However, a key insight emerges: **Smaller cities have job opportunities but at a
 ---
 
 ## **What Skills Are Employers Looking For?**  
-🔹 **Visual:** Top 10 Most Required Technical & Soft Skills (Bar Charts)  
-🔹 **Insight:** Guides job-seekers on **skills to prioritize for career growth**  
-
+![alt text](http://url/to/img.png)
 **Technical Skills:**  
 - **Microsoft Excel (52.5%)** and **GIS (42%)** top the list, indicating that **data handling, analysis, and geospatial tools are in high demand.**  
 - **Documentation (23.3%) and Capacity Building (23.1%)** highlight the need for strong administrative and strategic planning skills.  
 
+![alt text](http://url/to/img.png)
 **Soft Skills:**  
 - **Organization (64.9%) and Communication (63.3%)** are the two most valued soft skills.  
 - **Collaboration (31.3%) and Leadership (26.5%)** further emphasize that employers seek **team players who can take the initiative.**  
@@ -40,9 +38,8 @@ However, a key insight emerges: **Smaller cities have job opportunities but at a
 
 ---
 
-## **Experience vs. Opportunity: What Level of Experience Do Employers Require?**  
-🔹 **Visual:** Experience Requirements Across Job Types (Bar Chart)  
-🔹 **Insight:** Helps job-seekers determine **entry-level vs. senior roles availability**  
+## **Experience vs. Opportunity: What Level of Experience Do Employers Require?**
+![alt text](http://url/to/img.png)
 
 🔹 A major **outlier** stands out: **Security & Defense roles demand 25 years of experience**, making it a specialized field.  
 🔹 **Engineering, Finance, and Project Management all require a median of 5 years of experience**, indicating that **these fields prefer mid-career professionals.**  
@@ -56,8 +53,7 @@ However, a key insight emerges: **Smaller cities have job opportunities but at a
 ---
 
 ## **Hiring Trends & Cycles: When to Apply for Jobs?**  
-🔹 **Visual:** Percentage of Job Postings by Month (Bar Chart)  
-🔹 **Insight:** Helps job-seekers and hiring managers align their **job search and recruitment strategies**  
+![alt text](http://url/to/img.png)
 
 **February (12.2%) is the peak hiring month**, while **April (4.9%) sees the lowest job postings.**  
 - **Summer months (June & July)** show steady hiring trends (~9.6%)  
