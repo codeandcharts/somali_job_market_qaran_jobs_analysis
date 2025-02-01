@@ -97,6 +97,7 @@ To remain competitive, job seekers should focus on **developing technical skills
 - **[Scraping Notebook](notebooks/web_scraping_qaran_jobs.ipynb)** – Details on data extraction from Qaranjobs.com.
 - **[Cleaning Notebook](notebooks/qaran_job_data_cleaning.ipynb)** – Steps for structuring and preparing data for analysis.
 - **[Analysis Notebook](notebooks/qaran_jobs_analysis.ipynb)** – Code and insights derived from the processed job data.
+- **[Blog Post](https://medium.com/@codeandcharts/the-somali-job-market-key-insights-and-trends-from-qaranjobs-com-8c83ca6e2395)** - Read here as a blog post.
 
 This report provides a **data-driven perspective on Somalia’s evolving job market**, equipping job seekers, employers, and policymakers with actionable insights to enhance workforce development.
 
