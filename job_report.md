@@ -2,7 +2,6 @@
 
 The job market is evolving rapidly, and **understanding where opportunities lie, what skills matter, and how hiring trends fluctuate** can make the difference between a successful job search and frustration. This analysis uncovers critical insights using effective visuals to help **job seekers make informed career choices and employers refine their hiring strategies.**  
 
----
 
 ## **Market Overview: Where Are the Jobs?**  
 
@@ -10,7 +9,6 @@ The data reveals that **Information Technology (26.3%) and Finance (22.7%)** dom
 
 **💡 Takeaway:** If you’re considering a career shift or education path, these industries provide **the highest employment potential**.  
 
----
 
 ## **Location-Based Opportunities: Where Should You Search for Jobs?**  
 🔹 **Visual:** Top 10 Cities by Job Availability (Bar Chart)  
@@ -22,7 +20,6 @@ However, a key insight emerges: **Smaller cities have job opportunities but at a
 
 **💡 Takeaway:** If you’re open to relocation, **targeting urban centers like Mogadishu or secondary hubs like Hargeisa** may boost your job search success.  
 
----
 
 ## **What Skills Are Employers Looking For?**  
 🔹 **Visual:** Top 10 Most Required Technical & Soft Skills (Bar Charts)  
@@ -38,7 +35,6 @@ However, a key insight emerges: **Smaller cities have job opportunities but at a
 
 **💡 Takeaway:** To stand out in the job market, **job seekers should prioritize upskilling in Excel, GIS, and documentation**, while also refining **communication and leadership skills.**  
 
----
 
 ## **Experience vs. Opportunity: What Level of Experience Do Employers Require?**  
 🔹 **Visual:** Experience Requirements Across Job Types (Bar Chart)  
@@ -53,7 +49,6 @@ However, a key insight emerges: **Smaller cities have job opportunities but at a
 - If you have **5+ years of experience**, fields like **Engineering and Finance** are prime opportunities.  
 - **Security & Defense** remains a **specialized sector** with high entry barriers.  
 
----
 
 ## **Hiring Trends & Cycles: When to Apply for Jobs?**  
 🔹 **Visual:** Percentage of Job Postings by Month (Bar Chart)  
@@ -67,7 +62,6 @@ However, a key insight emerges: **Smaller cities have job opportunities but at a
 - **Job seekers should intensify their applications in Q1 (Jan–Mar) and early Q2 (May–June).**  
 - **Hiring managers should align their recruitment drives with peak job-seeking months for maximum applicant reach.**  
 
----
 
 ## **Actionable Recommendations**  
 
@@ -84,7 +78,6 @@ However, a key insight emerges: **Smaller cities have job opportunities but at a
 ✔ **Consider experience flexibility** – too many senior-level postings can limit applicant pools  
 ✔ **Expand hiring beyond urban centers** to access untapped talent pools  
 
----
 
 ## **Conclusion: Make Data-Driven Career Moves!**  
 
